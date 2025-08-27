@@ -1,4 +1,4 @@
-<img width="1019" height="922" alt="Screenshot 2025-08-27 032220" src="https://github.com/user-attachments/assets/31aa3205-2ee3-444f-8fc2-8f916d461c59" /># DIMA WMS – Technical Test Submission
+# DIMA WMS – Technical Test Submission
 
 This repository contains my solution for **Remote Software Engineer: Technical Test 01 – Inventory Management**.
 The project consists of **two microservices**:
