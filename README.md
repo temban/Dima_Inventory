@@ -88,7 +88,9 @@ python manage.py runserver
 ```
 
 > Backend available at **[http://localhost:8000/](http://localhost:8000/)**
+
 > Swagger API docs: **[http://localhost:8000/swagger/](http://localhost:8000/swagger/)**
+
 > Admin panel: **[http://localhost:8000/admin/](http://localhost:8000/admin/)**
 
 **Default Admin Credentials, Created Automatically When Backend Runs:**
@@ -249,14 +251,6 @@ python manage.py test
 # Create new migrations after model changes
 python manage.py makemigrations
 
-# Load initial data (if implemented)
-python manage.py loaddata initial_data.json
-
-# Frontend tests
-npm run test:unit
-
-# Frontend linting
-npm run lint
 ```
 
 ---
