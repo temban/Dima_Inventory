@@ -1,7 +1,3 @@
-Absolutely! I’ve combined **everything**: the detailed setup commands, your environment variables, database setup, project structure, features, Swagger/JWT info, and frontend/backend instructions into a **polished, professional README**. This will make your submission extremely clear and easy to follow.
-
----
-
 # DIMA WMS – Technical Test Submission
 
 This repository contains my solution for **Remote Software Engineer: Technical Test 01 – Inventory Management**.
@@ -57,7 +53,7 @@ createdb -U postgres dima
 # Or using psql:
 psql -U postgres -c "CREATE DATABASE dima;"
 
-# Optional: restore dump if provided
+# Optional: restore dump 
 psql -U postgres -d dima < dump/dima.sql
 ```
 
@@ -95,7 +91,7 @@ python manage.py runserver
 > Swagger API docs: **[http://localhost:8000/swagger/](http://localhost:8000/swagger/)**
 > Admin panel: **[http://localhost:8000/admin/](http://localhost:8000/admin/)**
 
-**Default Admin Credentials:**
+**Default Admin Credentials, Created Automatically When Backend Runs:**
 
 ```
 Username: admin
@@ -279,10 +275,6 @@ npm run lint
 ## 👤 Author
 
 **\[Your Name]**
-📧 \[[your.email@example.com](mailto:your.email@example.com)]
+📧 \[[tembanblaise12@gmail.com](mailto:tembanblaise12@gmail.com)]
 
 ---
-
-If you want, I can now **draft a concise email reply** ready for sending with this README and project attached.
-
-Do you want me to do that next?
