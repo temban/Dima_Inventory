@@ -262,7 +262,7 @@ python manage.py makemigrations
 
 ## 👤 Author
 
-**\[Your Name]**
+**\[Temban Blaise Ayim]**
 📧 \[[tembanblaise12@gmail.com](mailto:tembanblaise12@gmail.com)]
 
 ---
