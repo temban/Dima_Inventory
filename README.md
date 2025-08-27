@@ -10,6 +10,9 @@ Both services implement inventory features for **DIMA WMS**, including CRUD oper
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image Aug 27, 2025, 05_16_54 AM" src="https://github.com/user-attachments/assets/8670f08d-4cec-4326-bd0c-85cf5e7b1aa8" />
+
+
 ## ⚙️ Prerequisites
 
 Ensure the following are installed:
