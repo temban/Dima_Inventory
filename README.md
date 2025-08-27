@@ -227,18 +227,12 @@ mswebclient/
 * Obtain token via:
 
 ```http
-POST /api/token/
-{
+
   "username": "admin",
   "password": "admin123"
-}
-```
-
-* Include token in requests:
 
 ```
-Authorization: Bearer <your_token>
-```
+
 
 ---
 
